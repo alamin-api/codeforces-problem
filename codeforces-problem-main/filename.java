@@ -9,6 +9,7 @@ public class filename {
         int count = 0;
         int xCount = 0;
 
+
         for (int i = 0; i < n; i++) {
             if (text.charAt(i) == 'x') {
                 xCount++;
